@@ -1,4 +1,11 @@
-# Hey, I'm Tommy a Software Engineer and Tech Enthusiast.
+# Hey, I'm Tommy — Software Engineer | Full-Stack Developer | UI-Focused Systems Builder
+
+React • Next.js • React Native • TypeScript • JavaScript • HTML • CSS  
+Tailwind CSS • Chakra UI  
+Node.js • PHP • Electron.js  
+Firebase • Supabase • MongoDB  
+Modular Architecture • Real-Time Apps • Scalable UI Systems
+
 # 💫 About Me:
 🔭 I’m currently working on Frontend and Backend Development.<br>👯 I’m looking to collaborate on any Project that i can gain knowledge and experience from.<br>🤝 I’m looking for help with deep Backend Integration.<br>🌱 I’m currently learning Backend languages, Electron Desktop Software Development and Mobile App Development.<br>💬 Ask me about anything or share an insight.<br>⚡ No Fun fact about me so far.
 
