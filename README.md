@@ -5,6 +5,8 @@ Tailwind CSS • Chakra UI
 Node.js • PHP • Electron.js  
 Firebase • Supabase • MongoDB  
 Modular Architecture • Real-Time Apps • Scalable UI Systems
+
+
 # 💫 About Me:
 🔭 I’m currently working on Frontend and Backend Development.<br>👯 I’m looking to collaborate on any Project that i can gain knowledge and experience from.<br>🤝 I’m looking for help with deep Backend Integration.<br>🌱 I’m currently learning Backend languages, Electron Desktop Software Development and Mobile App Development.<br>💬 Ask me about anything or share an insight.<br>⚡ No Fun fact about me so far.
 
@@ -21,8 +23,5 @@ Modular Architecture • Real-Time Apps • Scalable UI Systems
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tommy-devgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=tommy-devgit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
