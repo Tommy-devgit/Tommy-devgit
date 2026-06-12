@@ -20,7 +20,4 @@ Modular Architecture • Real-Time Apps • Scalable UI Systems
 ![](https://github-readme-stats.shion.dev/api?username=tommy-devgit&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tommy-devgit&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tommy-devgit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
