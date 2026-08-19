@@ -1,9 +1,12 @@
 <div align="center">
 
-# Hey, I'm Tommy 👋
-### Software Engineer · Full-Stack Developer · UI-Focused Systems Builder
+# Tommy — Software Engineer
+
+Full-Stack Developer · UI-Focused Systems Builder
 
 I build fast, scalable products end-to-end — from pixel-perfect interfaces to the APIs and databases underneath them.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Next.js;Shipping+full-stack+products;Learning+RAG+%2B+AI+agents;Always+debugging+something...)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tomasmelesse.me-black?style=for-the-badge&logo=vercel&logoColor=white)](https://tomasmelesse.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasmelesse)
@@ -13,18 +16,18 @@ I build fast, scalable products end-to-end — from pixel-perfect interfaces to 
 
 ---
 
-### 🔭 What I'm doing
+### What I'm doing
 
-- 🎓 5th-year Software Engineering student at Adama Science and Technology University (graduating 2027)
-- 💼 Full-stack developer at **ClientReach AI**
-- 🌱 Currently deepening backend systems, Electron desktop apps, and mobile development
-- 🤖 Transitioning into AI engineering — focused on RAG, agents, and LLM-powered products
-- 🤝 Open to collaborating on projects where I can learn, build, and ship
-- 💬 Ask me about React, Next.js, or system design — happy to talk shop
+- 5th-year Software Engineering student at Adama Science and Technology University (graduating 2027)
+- Full-stack developer at **ClientReach AI**
+- Currently deepening backend systems, Electron desktop apps, and mobile development
+- Transitioning into AI engineering — focused on RAG, agents, and LLM-powered products
+- Open to collaborating on projects where I can learn, build, and ship
+- Ask me about React, Next.js, or system design — happy to talk shop
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -37,7 +40,7 @@ I build fast, scalable products end-to-end — from pixel-perfect interfaces to 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -63,7 +66,7 @@ I build fast, scalable products end-to-end — from pixel-perfect interfaces to 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -72,24 +75,44 @@ I build fast, scalable products end-to-end — from pixel-perfect interfaces to 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tommy-devgit&theme=tokyonight&hide_border=true)
 
+</div>
 
+---
+
+### Contribution Graph
+
+<div align="center">
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tommy-devgit&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ---
 
-### 📌 Pinned Repos
+### Contribution Snake
 
 <div align="center">
 
-<!-- TODO: replace REPO_NAME below with your actual repo slugs, one card per line -->
-<a href="https://github.com/Tommy-devgit/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tommy-devgit&repo=REPO_NAME&theme=tokyonight&hide_border=true" /></a>
+<!--START_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/Tommy-devgit/Tommy-devgit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<!--END_SECTION:waka-->
 
 </div>
+
+> Note: the snake animation needs a one-time GitHub Actions setup in your profile repo — see the "Snake animation setup" note below.
 
 ---
 
 <div align="center">
+
+```
+while (true) {
+  learn();
+  build();
+  ship();
+  repeat();
+}
+```
 
 *Let's build something worth shipping.*
 
