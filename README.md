@@ -99,9 +99,6 @@ I build fast, scalable products end-to-end — from pixel-perfect interfaces to 
 
 </div>
 
-> Note: the snake animation needs a one-time GitHub Actions setup in your profile repo — see the "Snake animation setup" note below.
-
----
 
 <div align="center">
 
