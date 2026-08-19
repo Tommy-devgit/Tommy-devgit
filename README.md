@@ -1,22 +1,96 @@
-# Hey, I'm Tommy — Software Engineer | Full-Stack Developer | UI-Focused Systems Builder
+<div align="center">
 
-React • Next.js • React Native • TypeScript • JavaScript • HTML • CSS  
-Tailwind CSS • Chakra UI  
-Node.js • PHP • Electron.js  
-Firebase • Supabase • MongoDB  
-Modular Architecture • Real-Time Apps • Scalable UI Systems
+# Hey, I'm Tommy 👋
+### Software Engineer · Full-Stack Developer · UI-Focused Systems Builder
+
+I build fast, scalable products end-to-end — from pixel-perfect interfaces to the APIs and databases underneath them.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tomasmelesse.me-black?style=for-the-badge&logo=vercel&logoColor=white)](https://tomasmelesse.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasmelesse)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomasmelesse413@gmail.com)
+
+</div>
+
+---
+
+### 🔭 What I'm doing
+
+- 🎓 5th-year Software Engineering student at Adama Science and Technology University (graduating 2027)
+- 💼 Full-stack developer at **ClientReach AI**
+- 🌱 Currently deepening backend systems, Electron desktop apps, and mobile development
+- 🤖 Transitioning into AI engineering — focused on RAG, agents, and LLM-powered products
+- 🤝 Open to collaborating on projects where I can learn, build, and ship
+- 💬 Ask me about React, Next.js, or system design — happy to talk shop
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Letterboxd (ET)](https://letterboxd-et-client.vercel.app/)** | Ethiopian movie tracking platform | Next.js, NestJS, PostgreSQL, Prisma, Redis |
+| **[NovaDent Clinic](https://nova-dent-dental-clinic-landing.vercel.app/)** | AI-powered dental platform with voice-AI lead automation | Next.js, Vapi, n8n, Twilio, Neon |
+| **MediaScrapper** | Electron desktop app for large-scale image collection with duplicate detection | Electron, SQLite, Prisma, Zustand |
+| **[E-Commerce Monorepo](https://airlab-five.vercel.app/collections)** | Nike-inspired storefront, full monorepo | Next.js, Express, PostgreSQL |
+| **[Glossy](https://glossy-iota.vercel.app/)** | Photo polishing company site | Next.js, Tailwind, MongoDB |
+| **[PhonePlaza](https://phone-plazaa.vercel.app/)** | Responsive phone store | React, TypeScript, Vite |
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+
+**Backend & Data**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+**Desktop / Tools**
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommy-devgit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommy-devgit&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tommy-devgit&theme=tokyonight&hide_border=true)
 
 
-# 💫 About Me:
-🔭 I’m currently working on Frontend and Backend Development.<br>👯 I’m looking to collaborate on any Project that i can gain knowledge and experience from.<br>🤝 I’m looking for help with deep Backend Integration.<br>🌱 I’m currently learning Backend languages, Electron Desktop Software Development and Mobile App Development.<br>💬 Ask me about anything or share an insight.<br>⚡ No Fun fact about me so far.
 
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/https://web.facebook.com/profile.php?id=61584251829144) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/https://www.instagram.com/tomas__melesse/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/tomasmelesse/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/https://x.com/tomas_melesse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tomasmelesse413@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tommy-devgit&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+### 📌 Pinned Repos
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+<!-- TODO: replace REPO_NAME below with your actual repo slugs, one card per line -->
+<a href="https://github.com/Tommy-devgit/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tommy-devgit&repo=REPO_NAME&theme=tokyonight&hide_border=true" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+*Let's build something worth shipping.*
+
+</div>
