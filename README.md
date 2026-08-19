@@ -18,8 +18,6 @@ I build fast, scalable products end-to-end — from pixel-perfect interfaces to 
 
 ### What I'm doing
 
-- 5th-year Software Engineering student at Adama Science and Technology University (graduating 2027)
-- Full-stack developer at **ClientReach AI**
 - Currently deepening backend systems, Electron desktop apps, and mobile development
 - Transitioning into AI engineering — focused on RAG, agents, and LLM-powered products
 - Open to collaborating on projects where I can learn, build, and ship
