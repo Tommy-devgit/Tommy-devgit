@@ -87,28 +87,5 @@ I build fast, scalable products end-to-end — from pixel-perfect interfaces to 
 
 ---
 
-### Contribution Snake
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<img src="https://raw.githubusercontent.com/Tommy-devgit/Tommy-devgit/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-<!--END_SECTION:waka-->
-
-</div>
-
-
-<div align="center">
-
-```
-while (true) {
-  learn();
-  build();
-  ship();
-  repeat();
-}
-```
-
-*Let's build something worth shipping.*
 
 </div>
