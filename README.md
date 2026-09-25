@@ -2,7 +2,7 @@
 
 # Tommy — Software Engineer
 
-Full-Stack Developer · UI-Focused Systems Builder
+Full-Stack Developer
 
 I build fast, scalable products end-to-end — from pixel-perfect interfaces to the APIs and databases underneath them.
 
